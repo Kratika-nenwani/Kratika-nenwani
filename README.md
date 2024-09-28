@@ -1,6 +1,9 @@
 <p align="center"> 
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/> 
+  <img src="https://cdn.vectorstock.com/i/2000v/75/63/girl-using-laptop-cute-cartoon-vector-51057563.webp" height="200"/> 
 </p>
+
+
+
 
 <h3> Hey there👋! I'm Kratika Nenwani.</h3>
 <h2> Aspiring Software Developer and Data Enthusiast </h2>
