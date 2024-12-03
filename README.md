@@ -82,3 +82,5 @@
 
 - **LinkedIn**: [Kratika Nenwani](https://www.linkedin.com/in/kratika-nenwani-017a67247/)
 - **Email**: [kratikanenwani@gmail.com](mailto:kratikanenwani@gmail.com)
+- **Leetcode**: <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="kratika-nenwani-017a67247" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/kratika-nenwani-017a67247?trk=profile-badge">Kratika Nenwani</a></div>
+              
